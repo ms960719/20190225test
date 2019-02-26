@@ -1,2 +1,3 @@
 abcd
 def
+reset-1 ghi
